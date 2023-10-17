@@ -23,7 +23,7 @@
 - To start Appium Server use this command: appium
 - Now Open Appium Inspector
 - Set Desired Capabilities:
- {
+- {
   "platformName": "android",
   "appium:platformVersion": "12",
   "appium:automationName": "UIAutomator2",
