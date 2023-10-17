@@ -24,13 +24,13 @@
 - Now Open Appium Inspector
 - Set Desired Capabilities:
 - ``` {
-  "platformName": "android",
-  "appium:platformVersion": "12",
-  "appium:automationName": "UIAutomator2",
-  "appium:appPackage": "com.google.android.calculator",
-  "appium:appActivity": "com.android.calculator2.Calculator",
-  "appium:app": "E:\\apk\\calculator.apk"
- } ```
+        "platformName": "android",
+        "appium:platformVersion": "12",
+        "appium:automationName": "UIAutomator2",
+        "appium:appPackage": "com.google.android.calculator",
+        "appium:appActivity": "com.android.calculator2.Calculator",
+        "appium:app": "E:\\apk\\calculator.apk"
+       } 
 - Here "appium:platformVersion": "12" is android version which device you Connected as adb device.
 - Click Save and Click Start Session
   
