@@ -19,7 +19,7 @@
 
 ## How to run this project:
 - Connect your mobile devices through USB cable or install Virtual device on Android Studio.
-- Open Command Prompt and use this command: adb devices
+- Open Command Prompt and use this command: ```adb devices```
 - To start Appium Server use this command: ```appium```
 - Now Open Appium Inspector
 - Set Desired Capabilities:
