@@ -18,7 +18,7 @@
 - allure-testng
 
 ## How to run this project:
-- Connect your mobile devices through USB cable or install Virtual device on Android Studio.
+- Turn on Developer Options and Connect your mobile device through USB cable or install and run Virtual device on Android Studio.
 - Open Command Prompt and use this command: ```adb devices```
 - To start Appium Server use this command: ```appium```
 - Now Open Appium Inspector
