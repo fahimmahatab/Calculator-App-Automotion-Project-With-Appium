@@ -33,7 +33,7 @@
   "appium:app": "E:\\apk\\calculator.apk"
 }
 ```     
-- Here``` "appium:platformVersion": "12" ```is android version which device you Connected as adb device.
+- Here ``` "appium:platformVersion": "12" ``` is android version which device you Connected as adb device.
 - Click Save and Click Start Session
   
 - Clone this project
@@ -43,9 +43,9 @@
 - ``` click Run Button ```
   
 ## Open Terminal Follow that Command:
-- ```gradle clean test```
-- ```allure generate allure-results --clean -output```
-- ```allure serve allure-results```
+- ``` gradle clean test ```
+- ``` allure generate allure-results --clean -output ```
+- ``` allure serve allure-results ```
   
 ## Allure Reports:
 ![screencapture-192-168-1-104-9593-index-html-2023-10-16-23_13_44](https://github.com/fahimmahatab/Calculator_App_Automotion_Project_With_Selenium_Appium/assets/43899673/68430a07-e1c5-4eed-93cb-0f67d64e5699)
