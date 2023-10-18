@@ -22,7 +22,7 @@
 - Open Command Prompt and use this command: ```adb devices```
 - To start Appium Server use this command: ```appium```
 - Now Open Appium Inspector
-- Set Desired Capabilities:
+- Set Desired Capabilities Manually or copy bellow JSON format and paste it JSON Representation:
 ```
 {
   "platformName": "android",
