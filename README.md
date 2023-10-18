@@ -1,6 +1,7 @@
 # Calculator_App_Automotion_Project_With_Selenium_Appium
 ## About this project:
 ## Automated Apps link: https://play.google.com/store/apps/details?id=com.google.android.calculator
+## apk Download link: https://apps.evozi.com/apk-downloader/
 ## Here I automate the following Series:
 - 50+10-20*2+10/2
 
@@ -33,7 +34,7 @@
   "appium:app": "E:\\apk\\calculator.apk"
 }
 ```     
-- Here ``` "appium:platformVersion": "12" ``` is android version which device you Connected as adb device.
+- Here ``` "appium:platformVersion": "12" ``` is android version which device i Connected as adb device and ``` "appium:app": "E:\\apk\\calculator.apk" ``` is location of downloaded apk file in my Computer.
 - Click Save and Click Start Session
   
 - Clone this project
