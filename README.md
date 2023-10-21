@@ -1,4 +1,4 @@
-# Calculator_App_Automotion_Project_With_Selenium_Appium
+# Calculator-App-Automotion-Project-With-Selenium-Appium
 ## About this project:
 ## Automated Apps link: https://play.google.com/store/apps/details?id=com.google.android.calculator
 ## apk Download link: https://apps.evozi.com/apk-downloader/
